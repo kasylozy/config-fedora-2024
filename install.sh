@@ -42,7 +42,8 @@ function installPackages () {
         gnome-disk-utility \
         nautilus \
         i3{,-gaps,status,blocks,lock} \
-        fontawesome4-fonts
+        fontawesome4-fonts \
+	wine
 }
 
 function installPhp () {
