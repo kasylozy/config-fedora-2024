@@ -318,7 +318,7 @@ function maildev_docker() {
 }
 
 function move_default_picture() {
-	    rsync -avPh ./Pictures ~/Images
+	    rsync -avPh ./Pictures/ ~/Images/
 }
 
 function update_config() {
