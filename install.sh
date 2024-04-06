@@ -33,6 +33,8 @@ function installPackages () {
         lxappearance \
         thunar \
         thunar-volman \
+	thunar-archive-plugin \
+ 	file-roller \
         xfce4-settings \
         neofetch \
         polybar \
