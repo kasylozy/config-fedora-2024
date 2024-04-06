@@ -246,7 +246,6 @@ function installPhp () {
         php83-php-zephir-parser.x86_64 \
         php83-php-zstd.x86_64 \
         php83-unit-php.x86_64 \
-        php83-uwsgi-plugin-php.x86_64 \
         php83-xhprof.noarch \
         php-pdo \
         php-mysql \
