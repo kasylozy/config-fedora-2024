@@ -46,7 +46,8 @@ function installPackages () {
         i3{,-gaps,status,blocks,lock} \
         fontawesome4-fonts \
 	wine \
- 	Multimedia
+ 	Multimedia \
+  	evolution
 }
 
 function installPhp () {
