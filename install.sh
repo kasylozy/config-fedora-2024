@@ -45,7 +45,8 @@ function installPackages () {
         nautilus \
         i3{,-gaps,status,blocks,lock} \
         fontawesome4-fonts \
-	wine
+	wine \
+ 	Multimedia
 }
 
 function installPhp () {
